@@ -3,13 +3,20 @@
 2019-03-10: started by David Cary
 
 
+We're going to build some cool things in the last half of the course.
+Be thinking about cool things you want to build.
+Also be thinking about how you can help other people build their own cool stuff.
+Perhaps some
+[fully-functional Mars Rovers](http://beatty-robotics.com/about-us-ii/) ?
+
+
 "But how SHOULD we teach kids about 'electricity'?"
 1997 William Beaty, BSEE
 http://amasci.com/miscon/elteach.html
 
 Assignment:
-Make a list of all the electrical devices mentioned,
-and find how much they cost on Mouser.com or Amazon.com .
+Make a list of all the electrical devices mentioned.
+Find out how much they cost on http://Mouser.com or http://Amazon.com .
 
 
 What Is "Electricity"?
@@ -23,6 +30,7 @@ that people probably should have said
 instead of the word "electricity".
 
 
+Jonathan Bartlett.
 "Electronics for Everyone".
 https://github.com/johnnyb/electronics_for_everyone
 
@@ -67,8 +75,14 @@ Make a note of all the "gaps" in the tutorial.
 Make a note of all the "gaps" in the tutorial.
 
 
+The main [README](README.md) file for this course is at
+https://github.com/carycode/electrical-science
+.
+
 [comment]: # ( ../electronics_for_everyone/build )
 [comment]: # ( ../electronics_for_everyone/ElectronicsForEveryone.tex )
+[comment]: # ( README.md )
+[comment]: # (This is a comment, it will not be included)
 [comment]: # (This is a comment, it will not be included)
 [comment]: # (This is a comment, it will not be included)
 [comment]: # (This is a comment, it will not be included)
