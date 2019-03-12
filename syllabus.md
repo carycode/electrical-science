@@ -18,6 +18,14 @@ Assignment:
 Make a list of all the electrical devices mentioned.
 Find out how much they cost on http://Mouser.com or http://Amazon.com .
 
+Assignment:
+For the remainder of the course,
+keep track (perhaps on github?)
+of
+* what electrical stuff we actually bought
+* the URL we bought it from
+* how useful you thought it was
+
 
 What Is "Electricity"?
 William J. Beaty 
@@ -29,6 +37,11 @@ Make a list of more precise words and terms and phrases
 that people probably should have said
 instead of the word "electricity".
 
+Assignment:
+Compare and contrast
+J. Bartlett, "Electronics for Everyone", Chapter 4, "What is Electricity?"
+with
+W. J. Beaty, "What is Electricity?".
 
 Jonathan Bartlett.
 "Electronics for Everyone".
